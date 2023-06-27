@@ -1,16 +1,12 @@
 # fakestore_app
 
-A new Flutter project.
+*This project is called _fakestore_app_ because we are making use of _fakestoreapi.com_ for the api*
+## Project Design URL
+_https://www.figma.com/file/ZwBVjjPPa5AJL3knt4X7I0/Quick-Buy?type=design&node-id=2-150&mode=design&t=NbqJTSTLKqkQLdQ1-0_
 
-## Getting Started
+## Tasks
+### 1. Add the trailing action image on the app home page. (More info at end of the video _part 3_).
+### 2. Add the searchbar on the home page.
+### 3. Add the trending Design and pick a particular category to display in the design.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
